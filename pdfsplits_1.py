@@ -16,6 +16,7 @@ def pdf_splitter(file,start,end):
     except Exception as e:
         print(e)
 
+#First step is to check all command line arguments
 if len(sys.argv) < 4:
     print("*"*50)
     print("Invalid Agruments")
