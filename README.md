@@ -1,2 +1,2 @@
 # Python-PDF-Splitter-Script
-I have create one custom PDF Splitter script in python.
+Every-time when we want to split PDF we go for different website like ilovepdf or any other website. Imagine what if we do not have internet access and still want to do splitting of pdf!!!
